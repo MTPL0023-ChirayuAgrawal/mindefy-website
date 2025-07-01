@@ -33,8 +33,8 @@ export default function Ecommerce() {
               Mindefy is that trusted partner, dedicated to delivering eCommerce
               solutions that not only meet your expectations but also drive
               tangible, measurable results. Our core focus revolves around two
-              eCommerce giants - Shopify and Magento - and we've mastered these
-              platforms to unlock your business's true potential
+              eCommerce giants - Shopify and Magento - and we&apos;ve mastered these
+              platforms to unlock your business&apos;s true potential
             </p>
           </div>
 
@@ -90,8 +90,8 @@ export default function Ecommerce() {
               </p>
               <p className="text-[1rem] w-[35.25rem] font-normal  text-[#033505] leading-relaxed text-justify">
                 Shopify is synonymous with its simplicity and versatility.
-                Whether you're an emerging startup or an established brand
-                looking to broaden your digital footprint, Mindefy's Shopify
+                Whether you&apos;re an emerging startup or an established brand
+                looking to broaden your digital footprint, Mindefy&apos;s Shopify
                 specialists craft a bespoke solution tailored to your unique
                 needs.
               </p>
@@ -119,10 +119,10 @@ export default function Ecommerce() {
             <div className="space-y-9">
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-left tracking-wide">
                 We go beyond the basics. Our experts design visually stunning
-                online stores that not only reflect your brand's identity but
+                online stores that not only reflect your brand&apos;s identity but
                 also provide an intuitive and engaging shopping experience for
-                visitors. We understand that a great store isn't just about
-                aesthetics; it's about turning visitors into loyal customers.
+                visitors. We understand that a great store isn&apos;t just about
+                aesthetics; it&apos;s about turning visitors into loyal customers.
               </p>
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-left tracking-wide">
                 We optimize every element of your Shopify store for conversion,
@@ -146,9 +146,9 @@ export default function Ecommerce() {
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-left tracking-wide">
                 Our team can tackle a variety of custom development tasks, such
                 as developing unique payment gateways, integrating third-party
-                services, or enhancing your store's functionality to meet
+                services, or enhancing your store&apos;s functionality to meet
                 specific business requirements. This specific business approach
-                ensures that your Shopify store doesn't just function well, but
+                ensures that your Shopify store doesn&apos;t just function well, but
                 it also works seamlessly with your business processes.
               </p>
             </div>
@@ -167,9 +167,9 @@ export default function Ecommerce() {
                 by your target audience.
               </p>
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-left tracking-wide">
-                Our team applies advanced SEO strategies to enhance your store's
+                Our team applies advanced SEO strategies to enhance your store&apos;s
                 search engine rankings, drive organic traffic, and ultimately
-                boost your eCommerce sales. We're committed to ensuring that
+                boost your eCommerce sales. We&apos;re committed to ensuring that
                 your store stands out and attracts the right audience.
               </p>
             </div>
@@ -223,7 +223,7 @@ export default function Ecommerce() {
                 without a hitch.
               </p>
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-left tracking-wide">
-                Whether you're starting from scratch or migrating an existing
+                Whether you&apos;re starting from scratch or migrating an existing
                 store to Magento, our approach is highly adaptable, ensuring
                 that the development process aligns with your specific needs and
                 business goals.
@@ -258,14 +258,14 @@ export default function Ecommerce() {
             <div className="space-y-9">
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-justify">
                 Transitioning your existing eCommerce store to Magento is a
-                complex task that can be daunting. Mindefy's migration
+                complex task that can be daunting. Mindefy&apos;s migration
                 specialists have the experience and expertise to ensure the
                 process is seamless and free from disruptions. .
               </p>
               <p className="text-[1rem] font-normal text-[#000000] leading-relaxed text-justify">
                 Our migration services are designed to minimize downtime, data
                 loss, and disruptions, providing a smooth path to leveraging
-                Magento's robust features. We take every step necessary to
+                Magento&apos;s robust features. We take every step necessary to
                 ensure that your data, design, and functionality are retained
                 throughout the migration.
               </p>

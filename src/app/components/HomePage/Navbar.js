@@ -131,14 +131,14 @@ export default function Navbar() {
           </div>
 
           <span className="hover:text-[#2c2178] cursor-pointer">
-            Mindful UX "Design Studio"
+            Mindful UX &quot;Design Studio&quot;
           </span>
         </div>
 
         {/* Desktop CTA */}
         <div className="hidden md:block">
           <button className="px-5 py-2 rounded-full border border-black text-black font-semibold transition hover:bg-black hover:text-white">
-            Let's Talk
+            Let&apos;s Talk
           </button>
         </div>
       </div>
@@ -155,10 +155,10 @@ export default function Navbar() {
         <span className="hover:text-[#2c2178] cursor-pointer">Products</span>
         <span className="hover:text-[#2c2178] cursor-pointer">Projects</span>
         <span className="hover:text-[#2c2178] cursor-pointer">
-          Mindful UX "Design Studio"
+          Mindful UX &quot;Design Studio&quot;
         </span>
         <button className="mt-2 px-4 py-2 rounded-full border border-black text-black font-semibold transition hover:bg-black hover:text-white">
-          Let's Talk
+          Let&apos;s Talk
         </button>
       </div>
     </nav>

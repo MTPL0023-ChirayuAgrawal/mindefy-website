@@ -23,14 +23,14 @@ export default function CRMSolutions() {
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[50rem] mx-auto">
             <span className="font-normal">Unleash the </span>Power of
             Connections
-            <span className="font-normal"> with </span>Mindefy's CRM Mastery
+            <span className="font-normal"> with </span>Mindefy&apos;s CRM Mastery
           </h1>
 
           {/* Description Paragraphs */}
           <div className="w-[61.375rem] font-normal mx-auto  mb-[2.25rem] text-justify space-y-[1.25rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed">
               Mindefy , your trusted partner in the art of forging meaningful
-              relationships with your customers. In today's dynamic business
+              relationships with your customers. In today&apos;s dynamic business
               world, customer relationships are the lifeblood of success. But to
               truly excel, you need more than just CRM software; you need a CRM
               solution that takes your business to the next level.
@@ -92,7 +92,7 @@ export default function CRMSolutions() {
                   analytics and user-friendly interfaces, we empower you to
                   understand your customers on a profound level, anticipate
                   their desires, and consistently exceed their expectations.
-                  Mindefy's CRM goes beyond mere data management; it equips you
+                  Mindefy&apos;s CRM goes beyond mere data management; it equips you
                   to deliver a personalized and extraordinary customer
                   experience that sets you apart in your industry.
                 </p>
@@ -126,9 +126,9 @@ export default function CRMSolutions() {
                   process management, artificial intelligence, and low-code
                   development capabilities. With Appian, you can streamline and
                   automate complex business processes, enhance collaboration,
-                  and deliver exceptional customer experiences. Mindefy's
+                  and deliver exceptional customer experiences. Mindefy&apos;s
                   expertise in Appian development enables you to leverage this
-                  platform's capabilities to drive efficiency and innovation
+                  platform&apos;s capabilities to drive efficiency and innovation
                   within your organization.
                 </p>
               </div>
@@ -158,12 +158,12 @@ export default function CRMSolutions() {
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify mb-4">
                   Every business is as unique as a fingerprint, and
-                  cookie-cutter CRM solutions won't suffice. At Mindefy, we
+                  cookie-cutter CRM solutions won&apos;t suffice. At Mindefy, we
                   approach CRM as an art, not a science. We pay keen attention
                   to your specific needs, challenges, and aspirations. Armed
                   with this intimate knowledge, we meticulously tailor our CRM
-                  systems to address your business's pain points and leverage
-                  opportunities for growth. Our CRM is not just a tool; it's a
+                  systems to address your business&apos;s pain points and leverage
+                  opportunities for growth. Our CRM is not just a tool; it&apos;s a
                   customized solution that aligns precisely with your unique
                   business objectives.
                 </p>
@@ -193,7 +193,7 @@ export default function CRMSolutions() {
                   Real-Time Vision
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify mb-4">
-                  Mindefy's CRM solutions provide real-time insights into
+                  Mindefy&apos;s CRM solutions provide real-time insights into
                   customer behavior, market trends, and sales performance. Armed
                   with this visionary knowledge, you can make data-powered
                   choices, refine your strategies, and emerge as a leader in
@@ -230,13 +230,13 @@ export default function CRMSolutions() {
                   Legendary Support
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify mb-4">
-                  Mindefy's commitment to your success knows no bounds. Our
+                  Mindefy&apos;s commitment to your success knows no bounds. Our
                   dedicated support team is at your service around the clock,
                   24/7. From the initial implementation of the CRM solution to
-                  continuous maintenance and updates, we're not just your
-                  support team; we're your strategic partners in ensuring that
+                  continuous maintenance and updates, we&apos;re not just your
+                  support team; we&apos;re your strategic partners in ensuring that
                   your CRM system consistently operates at peak performance. We
-                  share your commitment to your business's success and work
+                  share your commitment to your business&apos;s success and work
                   tirelessly to help it flourish.
                 </p>
               </div>
@@ -251,7 +251,7 @@ export default function CRMSolutions() {
           {/* Section Header */}
           <div className="text-center mb-[2.5rem]">
             <h2 className="text-[2rem] font-semibold text-[#000000] ">
-              The Advantages of Opting for Mindefy's CRM Services
+              The Advantages of Opting for Mindefy&apos;s CRM Services
             </h2>
           </div>
 
@@ -270,7 +270,7 @@ export default function CRMSolutions() {
                   Maestros at Your Service
                 </h3>
                 <p className="text-[1rem] mx-3.5 mb-2.5 w-[26rem] text-[#444444] leading-relaxed text-justify">
-                  Mindefy's CRM services provide you with access to a team of
+                  Mindefy&apos;s CRM services provide you with access to a team of
                   CRM virtuosos. These experts have honed their skills in the
                   art of customer relationship management across diverse
                   sectors. Their knowledge and experience provide you with
@@ -319,9 +319,9 @@ export default function CRMSolutions() {
                   Innovation Unleashed
                 </h3>
                 <p className="text-[1rem] mx-3.5 mb-2.5 w-[26rem] text-[#444444] leading-relaxed text-justify">
-                  Stay ahead of the curve with Mindefy's groundbreaking CRM
+                  Stay ahead of the curve with Mindefy&apos;s groundbreaking CRM
                   solutions, infused with the latest technology and
-                  industry-leading best practices. We're committed to keeping
+                  industry-leading best practices. We&apos;re committed to keeping
                   you at the forefront of technological advancements and
                   ensuring your CRM is aligned with the most up-to-date industry
                   standards. This commitment empowers you to remain adaptable
@@ -343,10 +343,10 @@ export default function CRMSolutions() {
                   Scale the Summit
                 </h3>
                 <p className="text-[1rem] mx-3.5 mb-2.5 w-[26rem] text-[#444444] leading-relaxed text-justify">
-                  Mindefy's CRM solutions are flexible and scalable, designed to
-                  grow with your business. Whether you're a budding startup or
+                  Mindefy&apos;s CRM solutions are flexible and scalable, designed to
+                  grow with your business. Whether you&apos;re a budding startup or
                   an established global enterprise, our CRM systems evolve to
-                  accommodate your expanding needs. You won't outgrow our CRM;
+                  accommodate your expanding needs. You won&apos;t outgrow our CRM;
                   it will evolve in parallel with your business, ensuring that
                   you have the capabilities and tools necessary to drive
                   customer relationships and growth as your business expands.
@@ -393,7 +393,7 @@ export default function CRMSolutions() {
                 <p className="text-[1rem] mx-3.5 mb-2.5 w-[26rem] text-[#444444] leading-relaxed text-justify">
                   Mindefy places a paramount emphasis on the security of your
                   data. We employ state-of-the-art security measures to protect
-                  your sensitive information. Your data's safety is our utmost
+                  your sensitive information. Your data&apos;s safety is our utmost
                   priority, granting you peace of mind as you focus on building
                   and maintaining invaluable customer connections. Our
                   commitment to security extends to safeguarding your customer
@@ -417,8 +417,8 @@ export default function CRMSolutions() {
                 <p className="text-[1rem] mx-3.5 mb-2.5 w-[26rem] text-[#444444] leading-relaxed text-justify">
                   Join the ranks of delighted clients who have experienced
                   tangible outcomes, from soaring customer satisfaction to
-                  turbocharged sales, all thanks to Mindefy's CRM brilliance.
-                  The impact of our CRM solutions isn't just theoretical; it's
+                  turbocharged sales, all thanks to Mindefy&apos;s CRM brilliance.
+                  The impact of our CRM solutions isn&apos;t just theoretical; it&apos;s
                   measurable and real, providing your business with a
                   competitive edge and quantifiable growth.
                 </p>

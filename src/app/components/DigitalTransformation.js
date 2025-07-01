@@ -23,7 +23,7 @@ export default function DigitalTransformation() {
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[50rem] mx-auto">
             Transforming Development <span className="font-normal">with </span>
             <br></br>
-            Mindefy's Digital Transformation Services
+            Mindefy&apos;s Digital Transformation Services
           </h1>
 
           {/* Description Paragraphs */}
@@ -58,7 +58,7 @@ export default function DigitalTransformation() {
           {/* Section Header */}
           <div className="text-center mb-[3rem]">
             <h2 className="text-[1.75rem] font-semibold text-[#000000] ">
-              Mindefy's Digital Transformation Services
+              Mindefy&apos;s Digital Transformation Services
             </h2>
           </div>
 
@@ -108,7 +108,7 @@ export default function DigitalTransformation() {
                     </h3>
                     <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
                       We take a research-driven approach to identify the
-                      essential elements that will elevate your application's
+                      essential elements that will elevate your application&apos;s
                       internet visibility. Through meticulous analysis of user
                       behavior, market trends, and search engine algorithms, we
                       design an interface that captivates and engages your

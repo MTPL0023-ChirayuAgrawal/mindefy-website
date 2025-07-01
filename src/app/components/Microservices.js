@@ -30,8 +30,8 @@ export default function Microservices() {
           {/* Description Paragraphs */}
           <div className="w-[60.25rem] font-normal mx-auto mb-[1.5rem] text-justify space-y-[1.25rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed ">
-              If you'rе looking to build scalablе and еfficiеnt softwarе
-              solutions, you'vе comе to thе right placе. Mindеfy lеvеragеs thе
+              If you&apos;rе looking to build scalablе and еfficiеnt softwarе
+              solutions, you&apos;vе comе to thе right placе. Mindеfy lеvеragеs thе
               powеr of microsеrvicеs and Java to dеlivеr cutting-еdgе solutions
               tailorеd to your uniquе businеss nееds. Our еxpеriеncеd dеvеlopеrs
               havе a dееp undеrstanding of microsеrvicеs principlеs and bеst
@@ -187,7 +187,7 @@ export default function Microservices() {
                     <p className="text-[1rem] mb-8 mx-2.5 text-[#444444] leading-relaxed text-justify">
                       We focus on the integration of microservices with other
                       systems and components of the technology ecosystem.
-                      Whether we're integrating with existing databases, message
+                      Whether we&apos;re integrating with existing databases, message
                       queues, or external APIs, we ensure seamless communication
                       and data flow between services.
                     </p>

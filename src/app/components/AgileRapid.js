@@ -29,7 +29,7 @@ export default function AgileRapid() {
           {/* Description Paragraphs */}
           <div className="w-[60.25rem] font-normal mx-auto mb-[2.25rem] text-justify space-y-[1.25rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed ">
-              You can rely on Mindefy's unique expertise in RAD Models and Agile
+              You can rely on Mindefy&apos;s unique expertise in RAD Models and Agile
               Development to deliver Unmatched Results.
             </p>
             <p className="text-[1rem] font-medium text-[#444444] leading-relaxed ">
@@ -286,7 +286,7 @@ export default function AgileRapid() {
               <div className="flex-1 mt-[5.65rem] w-[36.06rem]  my-[2.93rem] ml-2.5 ">
                 <p className="text-[1.125rem] font-normal  w-[34.312rem] text-[#444444] leading-relaxed text-justify">
                   At the end of each sprint, we conduct a sprint review to show
-                  the work we've done to stakeholders and gather feedback. This
+                  the work we&apos;ve done to stakeholders and gather feedback. This
                   feedback helps us improve and improve our products. We also
                   conduct sprint retrospectives to reflect on the sprint and
                   identify areas for further improvement.

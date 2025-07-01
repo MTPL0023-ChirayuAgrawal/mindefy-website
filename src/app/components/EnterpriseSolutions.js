@@ -71,7 +71,7 @@ export default function EnterpriseSolutions() {
               Innovative Technology Solutions for Enhanced Business Performance:
             </h2>
             <p className="font-normal text-[1rem]  text-[#444444] text-justify tracking-wider leading-relaxed">
-              We understand that staying ahead in today's competitive business
+              We understand that staying ahead in today&apos;s competitive business
               landscape requires leveraging innovative technology solutions. Our
               team of experienced professionals combines industry expertise with
               the latest technological advancements to deliver comprehensive
@@ -196,7 +196,7 @@ export default function EnterpriseSolutions() {
                   Oracle
                 </h3>
                 <p className="text-[1rem]  w-[29.375rem] text-[#444444] leading-relaxed text-justify">
-                  Harness the power of Oracle's comprehensive suite of
+                  Harness the power of Oracle&apos;s comprehensive suite of
                   enterprise solutions, including Oracle Database, Oracle ERP
                   Cloud, and Oracle HCM Cloud. These industry-leading solutions
                   offer scalability, security, and advanced analytics to drive
@@ -252,7 +252,7 @@ export default function EnterpriseSolutions() {
                 </h3>
                 <p className="text-[1rem]  w-[29.375rem] text-[#444444] leading-relaxed text-justify">
                   Transform your sales, marketing, and customer service
-                  operations with Salesforce, the world's leading customer
+                  operations with Salesforce, the world&apos;s leading customer
                   relationship management platform. Increase efficiency,
                   streamline workflows, and engage customers through
                   personalized experiences.
@@ -273,7 +273,7 @@ export default function EnterpriseSolutions() {
           <div className="mx-3.5 mb-[5.093rem]">
             <p className="font-normal text-[1rem] text-justify text-[#444444] leading-relaxed tracking-wide ">
               Mindefy understands that every organization has unique
-              requirements. That's why our team of experts works closely with
+              requirements. That&apos;s why our team of experts works closely with
               you to develop customized enterprise solutions tailored to your
               specific business needs. From implementation and integration to
               customization and ongoing support, we provide end-to-end solutions

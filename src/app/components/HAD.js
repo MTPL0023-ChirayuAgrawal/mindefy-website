@@ -96,7 +96,7 @@ export default function HAD() {
                 offer native-like performance and user interfaces. These
                 frameworks leverage the power of native components and optimized
                 rendering, resulting in smooth animations, fast response times,
-                and access to device-specific features. Users won't even notice
+                and access to device-specific features. Users won&apos;t even notice
                 the difference between a hybrid app and a native one.
               </p>
             </div>
@@ -259,7 +259,7 @@ export default function HAD() {
                   tailored to your unique requirements.
                 </p>
                 <p className="text-[1rem] text-[#444444] leading-relaxed text-justify mb-4">
-                  Benefit from Flutter's cross-platform capabilities to reach a
+                  Benefit from Flutter&apos;s cross-platform capabilities to reach a
                   wider audience, while our focus on quality, innovation, and
                   timely delivery ensures a remarkable user experience. Choose
                   us as your Flutter development partner and unlock the full
@@ -300,7 +300,7 @@ export default function HAD() {
                   industry leaders in PWA development, our experienced team of
                   developers combines cutting-edge technologies with best SEO
                   practices to deliver outstanding web experiences. By choosing
-                  us you gain access to our expertise in leveraging PWAs' unique
+                  us you gain access to our expertise in leveraging PWAs&apos; unique
                   features, such as offline functionality, fast loading speeds,
                   and seamless responsiveness across devices. We prioritize
                   customization, collaboration, and agile methodologies,

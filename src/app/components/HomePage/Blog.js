@@ -65,7 +65,7 @@ export default function Blog() {
             </div>
             <div className=" px-[0.51rem] pt-[1.75rem] text-[#30233D]">
               <h3 className="text-2xl font-semibold mb-4 ">
-                THE DIFFERENCE BETWEEN "AVERAGE AND SUCCESS"
+                THE DIFFERENCE BETWEEN &quot;AVERAGE AND SUCCESS&quot;
               </h3>
               <p className="text-base text-justify w-[20.87rem] font-normal  mb-4">
                 The amount of free time, we as humans have now was never been

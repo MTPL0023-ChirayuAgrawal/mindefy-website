@@ -253,7 +253,7 @@ export default function IOS() {
                 strategies, rigorous testing and ongoing insights, Mindefy
                 ensures that your applications are optimized for success. Trust
                 us to turn your app ideas into cost-effective, widely adopted
-                solutions that stand out in today's competitive environment.
+                solutions that stand out in today&apos;s competitive environment.
               </p>
             </div>
 
@@ -263,7 +263,7 @@ export default function IOS() {
                 Customized Solutions
               </h3>
               <p className="text-[1rem] h-48  text-[#444444] leading-relaxed text-justify">
-                We know that every app idea is unique. That's why we offer
+                We know that every app idea is unique. That&apos;s why we offer
                 tailor-made solutions tailored to your specific requirements.
                 Our team works closely with you to understand your vision and
                 deliver a custom iOS app that perfectly matches your business
@@ -316,11 +316,11 @@ export default function IOS() {
                 Ongoing Support and Maintenance
               </h3>
               <p className="text-[1rem] h-48  text-[#444444] leading-relaxed text-justify">
-                Our commitment to your app doesn't end with launch. We provide
+                Our commitment to your app doesn&apos;t end with launch. We provide
                 comprehensive support and maintenance services even after the
                 application is launched. Whether you need to update
                 functionality, fix bugs, or scale your application as your
-                business grows, we're here to help you every step of the way.
+                business grows, we&apos;re here to help you every step of the way.
               </p>
             </div>
 

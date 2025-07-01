@@ -62,10 +62,10 @@ export default function Testimonials() {
           <p className="text-[1rem] font-normal text-[#444444] leading-relaxed max-w-[67.25rem] mx-auto">
             Partnering with Mindefy has been a game-changer for their business.
             Their team of experts has helped us modernize our IT infrastructure,
-            streamline our processes, and enhance overall efficiency. Mindefy's
+            streamline our processes, and enhance overall efficiency. Mindefy&apos;s
             proactive approach, attention to detail, and deep understanding of
             our business have made them an invaluable asset to our organization.
-            Mindefy's team takes time to truly understand the business
+            Mindefy&apos;s team takes time to truly understand the business
             requirements and provides innovative solutions that have
             significantly improved operations.
           </p>
@@ -82,7 +82,7 @@ export default function Testimonials() {
               >
                 {/* Testimonial Title */}
                 <h3 className="text-[1.375rem] font-semibold text-[#2B2B2B] pr-[3.25rem] mb-4 leading-tight">
-                  "{testimonial.title}"
+                  &quot;{testimonial.title}&quot;
                 </h3>
 
                 {/* Testimonial Content */}
@@ -124,7 +124,7 @@ export default function Testimonials() {
               >
                 {/* Testimonial Title */}
                 <h3 className="text-[1.25rem] font-semibold text-[#2B2B2B] pr-[3.25rem] mb-4 leading-tight">
-                  "{testimonial.title}"
+                  &quot;{testimonial.title}&quot;
                 </h3>
 
                 {/* Testimonial Content */}

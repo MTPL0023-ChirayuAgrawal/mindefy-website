@@ -21,7 +21,7 @@ export default function BPM() {
 
           {/* Main Title */}
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[50rem] mx-auto">
-            Revolutionize Your Business with <br></br>Mindefy's Business Process
+            Revolutionize Your Business with <br></br>Mindefy&apos;s Business Process
             Management
           </h1>
 
@@ -29,13 +29,13 @@ export default function BPM() {
           <div className="w-[60.25rem] font-normal mx-auto mb-[2.25rem] text-justify space-y-[1.75rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed ">
               To thrive, your business needs to be at the forefront of
-              innovation, and Mindefy's BPM solutions are the key to this
-              transformation. In this fast-paced environment, it's not just
-              about offering a great product or service; it's about efficiently
+              innovation, and Mindefy&apos;s BPM solutions are the key to this
+              transformation. In this fast-paced environment, it&apos;s not just
+              about offering a great product or service; it&apos;s about efficiently
               managing your processes to ensure optimal resource utilization and
               unwavering customer satisfaction. This is where Mindefy excels,
               providing state-of-the-art BPM solutions designed to revolutionize
-              your organization's operations.
+              your organization&apos;s operations.
             </p>
           </div>
 
@@ -62,11 +62,11 @@ export default function BPM() {
           <div className="mx-2.5 mb-2.5">
             <p className="font-normal text-[1rem] text-justify text-[#444444] leading-relaxed tracking-wide ">
               Business Process Management is the amalgamation of art and
-              science, focused on optimizing your organization's processes to
+              science, focused on optimizing your organization&apos;s processes to
               enhance performance, efficiency, and agility. BPM encompasses a
               spectrum of activities, including analyzing, designing,
               implementing, and continually improving processes to achieve
-              strategic goals. Mindefy's BPM solutions are meticulously tailored
+              strategic goals. Mindefy&apos;s BPM solutions are meticulously tailored
               to your specific needs, ensuring that your business functions with
               the precision and reliability of a well-oiled machine.
             </p>
@@ -87,7 +87,7 @@ export default function BPM() {
         <div className="max-w-[72.375rem] mx-auto ">
           <div className="text-center">
             <h2 className="text-center text-[1.75rem] font-semibold text-[#000000] mb-11">
-              The Upsides of Opting for Mindefy's BPM Solutions
+              The Upsides of Opting for Mindefy&apos;s BPM Solutions
             </h2>
           </div>
           <div className="flex flex-wrap justify-center gap-6">
@@ -152,7 +152,7 @@ export default function BPM() {
           {/* Section Header */}
           <div className=" w-[58.875rem] mx-auto text-center mb-10">
             <h2 className="text-[1.75rem] font-semibold text-[#000000] mb-7">
-              The Upsides of Opting for Mindefy's BPM Solutions
+              The Upsides of Opting for Mindefy&apos;s BPM Solutions
             </h2>
             <h2 className="text-[1rem] font-normal text-[#000000] ">
               At Mindefy, we take a comprehensive and systematic approach to
@@ -330,7 +330,7 @@ export default function BPM() {
                 </h3>
 
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify">
-                  Mindefy's team of seasoned BPM professionals brings a proven
+                  Mindefy&apos;s team of seasoned BPM professionals brings a proven
                   track record of delivering results to businesses across a
                   diverse range of industries. Our collective expertise ensures
                   that you receive actionable solutions backed by real-world

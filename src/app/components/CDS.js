@@ -30,7 +30,7 @@ export default function CDS() {
           <div className="w-[60.25rem] font-normal mx-auto  mb-[2.25rem] text-justify space-y-[1.25rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed">
               Mindеfy - Your dеstination for bеst-in-class cloud and DеvOps
-              sеrvicеs. In today's fast-paced digital environment, businesses
+              sеrvicеs. In today&apos;s fast-paced digital environment, businesses
               need powerful and efficient solutions to solve cloud computing
               challenges and accelerate software development processes. At
               Mindеfy, we offer end-to-end cloud and DevOps services that enable

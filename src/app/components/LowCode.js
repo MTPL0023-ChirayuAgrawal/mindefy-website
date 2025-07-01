@@ -22,7 +22,7 @@ export default function LowCode() {
           {/* Main Title */}
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[50rem] mx-auto">
             <span className="font-normal">Transforming </span>Development
-            <span className="font-normal"> with </span>Mindefy's Low-Code
+            <span className="font-normal"> with </span>Mindefy&apos;s Low-Code
             Platform
           </h1>
 
@@ -332,9 +332,9 @@ export default function LowCode() {
                   process management, artificial intelligence, and low-code
                   development capabilities. With Appian, you can streamline and
                   automate complex business processes, enhance collaboration,
-                  and deliver exceptional customer experiences. Mindefy's
+                  and deliver exceptional customer experiences. Mindefy&apos;s
                   expertise in Appian development enables you to leverage the
-                  platform's capabilities to drive efficiency and innovation
+                  platform&apos;s capabilities to drive efficiency and innovation
                   within your organization.
                 </p>
               </div>
@@ -360,8 +360,8 @@ export default function LowCode() {
                   ServiceNow is a leading Low-Code platform for IT service
                   management (ITSM) and digital workflows. With ServiceNow, you
                   can streamline IT operations, automate service requests, and
-                  improve employee productivity. Mindefy's ServiceNow
-                  development services help you leverage this platform's
+                  improve employee productivity. Mindefy&apos;s ServiceNow
+                  development services help you leverage this platform&apos;s
                   features to optimize IT service delivery, enhance customer
                   satisfaction, and drive organizational growth.
                 </p>
@@ -420,7 +420,7 @@ export default function LowCode() {
                   rapid development of enterprise applications for web, mobile,
                   and desktop environments. With its model-driven development
                   approach and pre-built components, Magic XPA simplifies the
-                  development process and reduces time-to-market. Mindefy's
+                  development process and reduces time-to-market. Mindefy&apos;s
                   expertise in Magic XPA development ensures seamless
                   application delivery, efficient system integration and optimal
                   performance.

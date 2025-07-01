@@ -21,7 +21,7 @@ export default function ITC() {
 
           {/* Main Title */}
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[50rem] mx-auto">
-            Cultivating Innovation with Mindefy's <br></br>IT Consulting
+            Cultivating Innovation with Mindefy&apos;s <br></br>IT Consulting
             Services
           </h1>
 
@@ -29,7 +29,7 @@ export default function ITC() {
           <div className="w-[61.375rem] font-normal mx-auto  mb-[2.25rem] text-justify space-y-[1.25rem]">
             <p className="text-[1rem] text-[#444444] leading-relaxed">
               Transform your IT landscape, refine your startup concepts, and
-              streamline your operations with Mindefy's IT Consulting
+              streamline your operations with Mindefy&apos;s IT Consulting
               Services.We understand that navigating the ever-evolving landscape
               of information technology can be both challenging and
               daunting.Mindefy is dedicated to enhancing your technical
@@ -104,8 +104,8 @@ export default function ITC() {
                   <p> Refinement</p>
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed ml-[-2.85rem] text-justify">
-                  Your product's success depends on its quality and
-                  user-friendliness. Mindefy's experts will work with you to
+                  Your product&apos;s success depends on its quality and
+                  user-friendliness. Mindefy&apos;s experts will work with you to
                   refine your products, starting from the idea stage. This
                   comprehensive approach ensures that your products are not only
                   robust but also aligned with market demands.
@@ -158,12 +158,12 @@ export default function ITC() {
                   <p> Technical Insights</p>
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed ml-[-5.25rem] text-justify">
-                  Mindefy's team comprises experts well-versed in the latest
+                  Mindefy&apos;s team comprises experts well-versed in the latest
                   industry trends and technological advancements. This means
-                  you'll receive detailed, up-to-date technical insights that
+                  you&apos;ll receive detailed, up-to-date technical insights that
                   help you make informed decisions about your IT infrastructure.
-                  Whether you're optimizing existing systems or exploring new
-                  solutions, our experts ensure you're on the right path.
+                  Whether you&apos;re optimizing existing systems or exploring new
+                  solutions, our experts ensure you&apos;re on the right path.
                 </p>
               </div>
             </div>
@@ -233,7 +233,7 @@ export default function ITC() {
                   to offering valuable user experience consultation and
                   ultimately creating the Figma designs. This comprehensive
                   involvement ensured the successful delivery of a top-notch
-                  user interface that exceeded the client's requirements.
+                  user interface that exceeded the client&apos;s requirements.
                 </p>
               </div>
 
@@ -277,7 +277,7 @@ export default function ITC() {
       <div className="  w-[58.875rem] mx-auto mt-[3.75rem] rounded-2xl bg-[#F9F9F9]">
         <p className="p-5 font-semibold text-lg text-[#444444] ">
           At Mindefy, we understand the importance of a positive user
-          experience, and we're committed to delivering designs that make a
+          experience, and we&apos;re committed to delivering designs that make a
           lasting impression. Our approach, exemplified by the SoliRoute
           project, demonstrates our expertise in creating exceptional user
           experiences that drive success.
@@ -291,14 +291,14 @@ export default function ITC() {
             <h2 className=" p-2.5 text-[1.75rem] font-semibold text-[#000000] mb-6">
               The Advantages of Selecting
               <br />
-              Mindefy's IT Consulting Services
+              Mindefy&apos;s IT Consulting Services
             </h2>
             <p className="text-[1rem] = text-[#444444]  font-normal leading-relaxed max-w-[59.125rem] mx-auto text-justify">
-              Mindefy's IT consulting services offer a holistic approach to cost
+              Mindefy&apos;s IT consulting services offer a holistic approach to cost
               and time savings, expert guidance, tailored solutions, a dedicated
               focus on innovation, and a commitment to collaborative long-term
               partnerships. We provide your business with a robust foundation
-              for success, whether you're addressing immediate issues, planning
+              for success, whether you&apos;re addressing immediate issues, planning
               for the future, or innovating to stay ahead in your industry.
               Mindefy is your trusted partner in achieving your IT and business
               goals.
@@ -314,8 +314,8 @@ export default function ITC() {
                   Cost and Time Savings
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify">
-                  Mindefy's approach to cost and time savings is not just about
-                  addressing current challenges; it's about building a resilient
+                  Mindefy&apos;s approach to cost and time savings is not just about
+                  addressing current challenges; it&apos;s about building a resilient
                   and efficient IT infrastructure for the long term.
                 </p>
               </div>
@@ -348,7 +348,7 @@ export default function ITC() {
                   Problem-Solving Prowess
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify">
-                  Mindefy's consultants are skilled at identifying potential
+                  Mindefy&apos;s consultants are skilled at identifying potential
                   bottlenecks, security vulnerabilities, and operational
                   inefficiencies before they become critical issues. By
                   proactively addressing these concerns, we save your business
@@ -403,12 +403,12 @@ export default function ITC() {
                   Strategic Decision-Making
                 </h3>
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify">
-                  Mindefy's consultants act as strategic partners, helping you
+                  Mindefy&apos;s consultants act as strategic partners, helping you
                   make informed decisions about your IT investments. They bring
                   insights from a wide range of industries and projects,
                   ensuring that your choices align with best practices and
                   industry trends. This strategic approach contributes to your
-                  business's long-term growth and sustainability.
+                  business&apos;s long-term growth and sustainability.
                 </p>
               </div>
             </div>
@@ -451,7 +451,7 @@ export default function ITC() {
                   </h3>
 
                   <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                    Mindefy understands that off-the-shelf solutions don't
+                    Mindefy understands that off-the-shelf solutions don&apos;t
                     always address your particular challenges. Our consultants
                     conduct a thorough assessment of your business, focusing on
                     its individual pain points, opportunities, and goals. The
@@ -480,10 +480,10 @@ export default function ITC() {
                   </h3>
 
                   <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                    Mindefy's tailored solutions are designed with scalability
+                    Mindefy&apos;s tailored solutions are designed with scalability
                     and adaptability in mind. They grow with your business and
                     accommodate changes in your industry. This adaptability is
-                    crucial for long-term success, as it means you won't have to
+                    crucial for long-term success, as it means you won&apos;t have to
                     undergo a costly and time-consuming system overhaul each
                     time your business evolves.
                   </p>
@@ -502,7 +502,7 @@ export default function ITC() {
                 Innovation Focus
               </h2>
               <p className="text-[1.5rem] font-medium text-[#000000] leading-relaxed max-w-[53.625rem] mx-auto">
-                Mindefy's dedication to fostering innovation has a significant
+                Mindefy&apos;s dedication to fostering innovation has a significant
                 impact, particularly for startups and businesses looking to stay
                 competitive
               </p>
@@ -528,7 +528,7 @@ export default function ITC() {
                   </h3>
 
                   <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                    Mindefy's consultants understand the evolving landscape and
+                    Mindefy&apos;s consultants understand the evolving landscape and
                     can help you create innovative products, services, or
                     processes that set you apart from competitors. This
                     innovation is a powerful tool for attracting customers,
@@ -555,7 +555,7 @@ export default function ITC() {
                   </h3>
 
                   <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                    Innovation often involves taking calculated risks. Mindefy's
+                    Innovation often involves taking calculated risks. Mindefy&apos;s
                     experts can guide you through the innovation process,
                     helping you identify and manage potential risks, thus
                     reducing the likelihood of costly setbacks. By approaching
@@ -575,7 +575,7 @@ export default function ITC() {
                 Collaborative Partnership
               </h2>
               <p className="text-[1.5rem] font-medium text-[#000000] leading-relaxed max-w-[53.625rem] mx-auto">
-                Mindefy's commitment to building long-lasting relationships
+                Mindefy&apos;s commitment to building long-lasting relationships
                 ensures that you have a dedicated partner on your IT journey
               </p>
             </div>
@@ -600,7 +600,7 @@ export default function ITC() {
                   </h3>
 
                   <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                    Mindefy doesn't view your project as a one-time engagement.
+                    Mindefy doesn&apos;t view your project as a one-time engagement.
                     We are committed to providing ongoing support as your
                     trusted partner. This means that you can rely on us for
                     guidance, problem-solving, and strategic advice as your

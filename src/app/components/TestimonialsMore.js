@@ -20,7 +20,7 @@ export default function TestimonialsMore() {
       id: 2,
       title: "JEGO Platform Transformation & Innovation",
       content:
-        "Over the past three years, the transformation of the JEGO platform has been incredible, from revamping mobile apps and the portal web to migrating to latest cloud architecture, the team at Mindefy Technologies has been outstanding. Their ability to deliver scalable solutions while maintaining quality has significantly enhanced our platform's efficiency and user experience. A truly reliable and innovative tech partner!",
+        "Over the past three years, the transformation of the JEGO platform has been incredible, from revamping mobile apps and the portal web to migrating to latest cloud architecture, the team at Mindefy Technologies has been outstanding. Their ability to deliver scalable solutions while maintaining quality has significantly enhanced our platform&apos;s efficiency and user experience. A truly reliable and innovative tech partner!",
       clientName: "Mr. Gaurav Gupta",
       clientPosition: "Poem Media TechInvest LLC, Dubai",
       companyLogo: "/images/jego-icon.svg",
@@ -50,7 +50,7 @@ export default function TestimonialsMore() {
       id: 5,
       title: "Precision-Driven Website Design & Execution",
       content:
-        "Mindefy has been extremely intricate in taking both our website design and executing it well. They have been very responsive in all our requests. Done all the steep documentation, quality checks and delivered the final impeccably. We would definitely recommend for discussion-worthy. Love their ethics and principles. It's a great team overall!",
+        "Mindefy has been extremely intricate in taking both our website design and executing it well. They have been very responsive in all our requests. Done all the steep documentation, quality checks and delivered the final impeccably. We would definitely recommend for discussion-worthy. Love their ethics and principles. It&apos;s a great team overall!",
       clientName: "Mrs. Shalini Santhosh",
       clientPosition: "Founder, Haircut Beauty Salon, Dubai",
       companyLogo: "/images/earlyfoods.svg",
@@ -112,7 +112,7 @@ export default function TestimonialsMore() {
                 >
                   {/* Testimonial Title */}
                   <h3 className="text-[1.375rem] font-semibold text-[#02000D] mb-[1.5rem] leading-tight">
-                    "{testimonial.title}"
+                    &quot;{testimonial.title}&quot;
                   </h3>
 
                   {/* Testimonial Content */}

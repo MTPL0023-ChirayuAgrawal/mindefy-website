@@ -99,7 +99,7 @@ export default function JEGO() {
                   </summary>
                   <div className="mt-3">
                     <p className="text-sm lg:text-base text-gray-600 leading-relaxed pl-1">
-                      JEGO has had a profound impact on individuals' personal
+                      JEGO has had a profound impact on individuals&apos; personal
                       growth and transformation. Users have reported improved
                       self-awareness and significant positive changes in their
                       mindset and behaviors.
@@ -136,7 +136,7 @@ export default function JEGO() {
                   </summary>
                   <div className="mt-3">
                     <p className="text-sm lg:text-base text-gray-600 leading-relaxed pl-1">
-                      JEGO's platform is designed to be accessible worldwide,
+                      JEGO&apos;s platform is designed to be accessible worldwide,
                       breaking down geographical barriers to personal
                       development. The application supports multiple languages
                       and offers culturally relevant content for diverse

@@ -22,7 +22,7 @@ export default function StartupIncubationConsulting() {
           {/* Main Title */}
           <h1 className="text-[2.25rem]  font-semibold text-[#000000] mb-7 leading-tight max-w-[55.25rem] mx-auto">
             <span className="font-medium">Unlock Your </span>Startup Potential
-            with <br></br>Mindefy's Incubation Services
+            with <br></br>Mindefy&apos;s Incubation Services
           </h1>
 
           {/* Description Paragraphs */}
@@ -175,10 +175,10 @@ export default function StartupIncubationConsulting() {
                 </h3>
 
                 <p className="text-[1rem] font-normal text-[#444444] leading-relaxed text-justify">
-                  Before making a full-scale commitment to production, it's
+                  Before making a full-scale commitment to production, it&apos;s
                   vital to test the market. Mindefy assists you in conducting
                   rigorous market research and validation. This step ensures
-                  that your idea isn't just theoretically viable but is indeed
+                  that your idea isn&apos;t just theoretically viable but is indeed
                   aligned with the needs and preferences of your target
                   audience. Market testing is a critical aspect of risk
                   mitigation and increases your confidence that your concept can
@@ -217,7 +217,7 @@ export default function StartupIncubationConsulting() {
                 </p>
                 <p className="text-[1rem]  w-[34.312rem] text-[#444444] leading-relaxed text-justify">
                   With years of experience in startup incubation, Mindefy has
-                  accumulated invaluable knowledge and insights. We've
+                  accumulated invaluable knowledge and insights. We&apos;ve
                   successfully shepherded numerous ideas to thriving businesses,
                   equipping us with the expertise to guide you effectively. We
                   understand the unique challenges and opportunities that
@@ -259,7 +259,7 @@ export default function StartupIncubationConsulting() {
                 </h3>
                 <p className="text-[1rem]  w-[34.312rem] text-[#444444] leading-relaxed text-justify">
                   Mindefy understands that every startup idea is unique, and a
-                  one-size-fits-all approach doesn't work. Our strength lies in
+                  one-size-fits-all approach doesn&apos;t work. Our strength lies in
                   our ability to customize our services to fit your specific
                   needs. This tailored approach ensures that our support is
                   precisely aligned with your unique vision, challenges, and
@@ -290,7 +290,7 @@ export default function StartupIncubationConsulting() {
                   influencers and potential partners, and state-of-the-art
                   facilities and tools that foster innovation and product
                   development. These resources not only accelerate your
-                  startup's growth but also provide the infrastructure you need
+                  startup&apos;s growth but also provide the infrastructure you need
                   to thrive.
                 </p>
               </div>
@@ -395,12 +395,12 @@ export default function StartupIncubationConsulting() {
                 <p className="text-[1rem]  w-[34.312rem] text-[#444444] leading-relaxed text-justify">
                   Mindefy has cultivated strategic partnerships with industry
                   leaders, investors, and seasoned mentors. These partnerships
-                  offer a wealth of opportunities for your startup's success.
+                  offer a wealth of opportunities for your startup&apos;s success.
                   You gain access to funding options, expert guidance from
                   mentors who have navigated the entrepreneurial landscape, and
                   connections in your industry that can be invaluable in
                   building your business. These partnerships significantly
-                  enhance your startup's chances of success and provide you with
+                  enhance your startup&apos;s chances of success and provide you with
                   a wealth of support.
                 </p>
               </div>
@@ -418,11 +418,11 @@ export default function StartupIncubationConsulting() {
           </div>
           <div className="mx-3.5 mb-[5.093rem]">
             <p className="font-normal text-[1rem] text-justify text-[#444444] leading-relaxed ">
-              Mindefy's portfolio of successful startups serves as a testament
+              Mindefy&apos;s portfolio of successful startups serves as a testament
               to our capabilities. These are entrepreneurs who entrusted Mindefy
               to incubate their ideas, and the results speak for themselves:
               thriving and profitable ventures. Our track record is more than a
-              guarantee; it's a living demonstration of our commitment to
+              guarantee; it&apos;s a living demonstration of our commitment to
               helping innovative concepts evolve into concrete, successful
               realities
             </p>

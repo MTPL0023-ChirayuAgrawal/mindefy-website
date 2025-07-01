@@ -148,7 +148,7 @@ export default function AAD() {
                   UI/UX Design
                 </h3>
                 <p className="text-[1rem] font-normal text-[#4D4D4D] text-justify leading-relaxed">
-                  Our talented UI/UX designers bring your app's visual elements
+                  Our talented UI/UX designers bring your app&apos;s visual elements
                   to life. Using industry-leading design tools, they create
                   captivating and user-friendly interfaces. By considering
                   factors such as usability, aesthetics, and brand identity, we

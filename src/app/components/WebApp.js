@@ -64,7 +64,7 @@ export default function WebApp() {
           <p>
             Mindefy, The leading provider of enterprise Java web applications.
             We specialize in delivering high-quality solutions that leverage the
-            power of Java to drive your business forward. Whether you're a small
+            power of Java to drive your business forward. Whether you&apos;re a small
             startup or a large corporation, our enterprise Java web applications
             are tailored to meet your specific needs and empower your
             organization for success. With Mindefy harness the power of
@@ -154,7 +154,7 @@ export default function WebApp() {
               features, is ideal for building large-scale and enterprise-grade
               web applications. Our skilled team harnesses the power of Angular
               to develop secure, scalable, and feature-rich web applications.
-              With Angular's extensive library of pre-built components, we
+              With Angular&apos;s extensive library of pre-built components, we
               deliver rapid development without compromising on quality.
             </p>
           </div>
@@ -219,7 +219,7 @@ export default function WebApp() {
                   Code Reusability
                 </h3>
                 <p className="text-[1rem] text-[#444444] leading-relaxed text-justify">
-                  React's component-based architecture and Angular's modular
+                  React&apos;s component-based architecture and Angular&apos;s modular
                   approach promote code reusability, reducing development time
                   and effort while maintaining consistency across your
                   application.
