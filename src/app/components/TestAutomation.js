@@ -57,7 +57,7 @@ export default function TestAutomation() {
           {/* Section Header */}
           <div className="text-center mb-[3.75rem]">
             <h2 className="text-[1.75rem] font-semibold text-[#000000] mb-4">
-              Explore Mindefy&apos;s Reliable Testing Services
+              Explore Mindefy's Reliable Testing Services
             </h2>
           </div>
 
@@ -75,7 +75,7 @@ export default function TestAutomation() {
                   process. Our experts create robust and scalable automation
                   scripts that accelerate test execution, improve test coverage,
                   and reduce the manual effort required for repetitive tasks. By
-                  leveraging Selenium&apos;s capabilities, we ensure comprehensive
+                  leveraging Selenium's capabilities, we ensure comprehensive
                   testing of your applications across different browsers,
                   platforms, and devices.
                 </p>
@@ -117,7 +117,7 @@ export default function TestAutomation() {
                   framework, to facilitate effective collaboration between
                   stakeholders and streamline the testing process. Through BDD,
                   we align business requirements with test scenarios, creating a
-                  shared understanding of the application&apos;s behavior. Cucumber
+                  shared understanding of the application's behavior. Cucumber
                   enables the creation of executable specifications that serve
                   as living documentation and drive automated tests, promoting
                   clarity and efficiency in the testing process.
