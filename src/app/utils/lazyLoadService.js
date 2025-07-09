@@ -7,14 +7,19 @@ export function createLazyServiceComponent(componentPath, options = {}) {
   return dynamic(() => {
     // Add artificial delay in development to see the loader
     const importPromise = import(`../components/${componentPath}`);
-    if (process.env.NODE_ENV === 'development') {
-      return new Promise(resolve => {
-        setTimeout(() => {
-          importPromise.then(resolve);
-        }, 2000); // 2 second delay in development
-      });
-    }
-    return importPromise;
+    // if (process.env.NODE_ENV === 'development') {
+    //   return new Promise(resolve => {
+    //     setTimeout(() => {
+    //       importPromise.then(resolve);
+    //     }, 500); // 0.5 second delay in development
+    //   });
+    // }
+    // return importPromise;
+    return new Promise(resolve => {
+      setTimeout(() => {
+        importPromise.then(resolve);
+      }, 500); // 0.5 second delay in development
+    });
   }, {
     loading: () => (
       <div className="fixed inset-0 flex items-center justify-center bg-white z-50">
@@ -58,3 +63,10 @@ export const LazyMVPDevelopment = createLazyServiceComponent('MVPDevelopment');
 export const LazyMindfulUX = createLazyServiceComponent('MindfulUX');
 export const LazyCDS = createLazyServiceComponent('CDS');
 export const LazyBPM = createLazyServiceComponent('BPM');
+export const LazyAboutUs = createLazyServiceComponent('AboutUs');
+export const LazySolistack = createLazyServiceComponent('projects/Solistack');
+export const LazyYourHour = createLazyServiceComponent('products/YourHour');
+export const LazyDigiBill = createLazyServiceComponent('projects/DigiBill');
+export const LazyMachONE = createLazyServiceComponent('projects/MachONE');
+export const LazyTestimonialsMore = createLazyServiceComponent('TestimonialsMore');
+export const LazySpector = createLazyServiceComponent('Spector');

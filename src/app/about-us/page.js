@@ -1,4 +1,4 @@
-import AboutUsPage from "../components/AboutUs";
+import { LazyAboutUs } from "../utils/lazyLoadService";
 
 export const metadata = {
   title: "About Us",
@@ -7,17 +7,17 @@ export const metadata = {
   openGraph: {
     title: "About Us - Mindefy Technologies",
     description: "Learn about Mindefy Technologies - a leading software development company with expertise in mobile app development, web applications, and digital transformation solutions.",
-    url: "https://mindefy.com/about-us",
+    url: "https://mindefy.tech/about-us",
   },
   twitter: {
     title: "About Us - Mindefy Technologies",
     description: "Learn about Mindefy Technologies - a leading software development company with expertise in mobile app development, web applications, and digital transformation solutions.",
   },
   alternates: {
-    canonical: "https://mindefy.com/about-us",
+    canonical: "https://mindefy.tech/about-us",
   },
 };
 
 export default function AboutUs() {
-  return <AboutUsPage />;
+  return <LazyAboutUs />;
 }
