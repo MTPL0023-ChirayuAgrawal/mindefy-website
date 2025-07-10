@@ -8,6 +8,7 @@ import { ProjectDropdown } from "./ProjectDropdown";
 import Image from "next/image";
 
 export default function Navbar() {
+  
   const [showServicesDropdown, setShowServicesDropdown] = useState(false);
   const [showProductsDropdown, setShowProductsDropdown] = useState(false);
   const [showProjectsDropdown, setShowProjectsDropdown] = useState(false);
@@ -15,6 +16,11 @@ export default function Navbar() {
   const [mobileServicesOpen, setMobileServicesOpen] = useState(false);
   const [mobileProductsOpen, setMobileProductsOpen] = useState(false);
   const [mobileProjectsOpen, setMobileProjectsOpen] = useState(false);
+  
+  // States for transition effects
+  const [servicesTransitioning, setServicesTransitioning] = useState(false);
+  const [productsTransitioning, setProductsTransitioning] = useState(false);
+  const [projectsTransitioning, setProjectsTransitioning] = useState(false);
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -32,6 +38,28 @@ export default function Navbar() {
     setMobileServicesOpen(false);
     setMobileProductsOpen(false);
     setMobileProjectsOpen(false);
+  };
+
+  // Close all desktop dropdowns when any dropdown item is clicked
+  const handleDesktopDropdownItemClick = () => {
+    // Start transition effect
+    if (showServicesDropdown) setServicesTransitioning(true);
+    if (showProductsDropdown) setProductsTransitioning(true);
+    if (showProjectsDropdown) setProjectsTransitioning(true);
+    
+    // Close dropdowns after a brief delay to allow transition
+    setTimeout(() => {
+      setShowServicesDropdown(false);
+      setShowProductsDropdown(false);
+      setShowProjectsDropdown(false);
+      
+      // Reset transition states
+      setTimeout(() => {
+        setServicesTransitioning(false);
+        setProductsTransitioning(false);
+        setProjectsTransitioning(false);
+      }, 50);
+    }, 150);
   };
 
   // Function to scroll to contact section
@@ -143,9 +171,11 @@ export default function Navbar() {
                 <div className="fixed left-0 top-[4rem] w-full h-[5rem] z-30"></div>
 
                 {/* Actual dropdown positioned to take full width */}
-                <div className="fixed left-0 top-[4.5rem] w-full flex justify-center z-40">
-                  <div className="w-full max-w-none px-4 sm:px-6 lg:px-8">
-                    <ServicesDrop />
+                <div className={`fixed left-0 top-[4.5rem] w-full flex justify-center z-40 transition-opacity duration-200 ease-in-out ${
+                  servicesTransitioning ? 'opacity-0' : 'opacity-100'
+                }`}>
+                  <div className="w-full max-w-none">
+                    <ServicesDrop onItemClick={handleDesktopDropdownItemClick} />
                   </div>
                 </div>
               </>
@@ -171,8 +201,10 @@ export default function Navbar() {
 
             {/* Products Dropdown */}
             {showProductsDropdown && (
-              <div className="absolute left-1/2 transform -translate-x-1/2 top-[3rem] z-40">
-                <ProductsDropdown />
+              <div className={`absolute left-1/2 transform -translate-x-1/2 top-[3rem] z-40 transition-opacity duration-200 ease-in-out ${
+                productsTransitioning ? 'opacity-0' : 'opacity-100'
+              }`}>
+                <ProductsDropdown onItemClick={handleDesktopDropdownItemClick} />
               </div>
             )}
           </div>
@@ -196,8 +228,10 @@ export default function Navbar() {
 
             {/* Projects Dropdown */}
             {showProjectsDropdown && (
-              <div className="absolute left-1/2 transform -translate-x-1/2 top-[3rem] z-40">
-                <ProjectDropdown />
+              <div className={`absolute left-1/2 transform -translate-x-1/2 top-[3rem] z-40 transition-opacity duration-200 ease-in-out ${
+                projectsTransitioning ? 'opacity-0' : 'opacity-100'
+              }`}>
+                <ProjectDropdown onItemClick={handleDesktopDropdownItemClick} />
               </div>
             )}
           </div>
@@ -487,20 +521,20 @@ export default function Navbar() {
               </button>
               {mobileProjectsOpen && (
                 <div className="pl-4 mt-2 space-y-1">
-                  <Link
+                  {/* <Link
                     href="/your-hour"
                     onClick={handleMobileMenuItemClick}
                     className="block hover:text-red-600 text-xs"
                   >
                     EarlyFoods
-                  </Link>
-                  <Link
+                  </Link> */}
+                  {/* <Link
                     href="/your-hour"
                     onClick={handleMobileMenuItemClick}
                     className="block hover:text-red-600 text-xs"
                   >
                     JEGO
-                  </Link>
+                  </Link> */}
                   <Link
                     href="/your-hour"
                     onClick={handleMobileMenuItemClick}
